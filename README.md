@@ -35,5 +35,5 @@
 
     
      <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/viniciuscicone/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/gdlmartins/count.svg" />
  </p>
