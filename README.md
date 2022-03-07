@@ -41,4 +41,4 @@
    
    <img alingn="center" src="https://profile-counter.glitch.me/gdlmartins/count.svg" />
 
- ![Snake animation](https://github.com/gdlmartins/gdlmartins/blob/output/github-contribution-grid-snake.svg)
+
