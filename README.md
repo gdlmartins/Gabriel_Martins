@@ -4,7 +4,7 @@
 
 
 
-<div align="center" style={{display:'flex'}}>
+<div align="center" >
 <a  href="https://github.com/gdlmartins">
     
 <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdlmartins&layout=compact&langs_count=7&theme=dracula"/>
@@ -21,7 +21,7 @@
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
-      <img align="center" src="https://profile-counter.glitch.me/gdlmartins/count.svg" />
+    
 
 </div>
 
