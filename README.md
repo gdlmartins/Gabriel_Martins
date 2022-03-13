@@ -1,5 +1,8 @@
 # Gabriel Martins 
 
+Full Stack<br>
+Based in Perth Australia<br><br><br>
+
 
 
 
@@ -10,7 +13,7 @@
 <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdlmartins&layout=compact&langs_count=7&theme=radical"/>
     
 <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=gdlmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+</div><br/><br/>
 
 <div align="center" style={{display:"flex"}}><br>
     <img align="center" alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
@@ -19,11 +22,11 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      <img  align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
     
 
-</div>
+</div><br/><br/>
 
 
 
