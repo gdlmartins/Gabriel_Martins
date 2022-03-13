@@ -7,9 +7,9 @@
 <div align="center" >
 <a  href="https://github.com/gdlmartins">
     
-<img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdlmartins&layout=compact&langs_count=7&theme=dracula"/>
+<img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdlmartins&layout=compact&langs_count=7&theme=radical"/>
     
-<img  height="140em" src="https://github-readme-stats.vercel.app/api?username=gdlmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img  height="140em" src="https://github-readme-stats.vercel.app/api?username=gdlmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center" style={{display:"flex"}}><br>
@@ -35,17 +35,14 @@
 
  <div align="right">
 
-### Contatos:
+### You Can Find Me Here: 
    
     
 
 <a href = "mailto:gdlmartins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-martins-71438541/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
      
-     
-       <img align="center" src="https://profile-counter.glitch.me/gdlmartins/count.svg" />
-</div>
-
+ 
     
 
     
