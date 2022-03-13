@@ -29,7 +29,7 @@
 
 
 
-<div style={{display: "absolute", bottom: 0 , right: 0 }}>
+<div style={{position: "absolute", bottom: "0px" , right: "0px" }}>
 
 ### Contatos:
 
