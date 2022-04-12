@@ -1,4 +1,4 @@
-# Gabriel Martins 
+# Gabriel Martins <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 Full Stack<br>
 Based in Perth Australia<br><br><br>
