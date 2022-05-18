@@ -1,6 +1,6 @@
 # Gabriel Martins <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Full Stack<br>
+Full Stack Developer<br>
 Based in Australia<br><br><br>
 
 
